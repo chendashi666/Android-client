@@ -1,0 +1,20 @@
+{
+    "name": "AhMyth",
+    "description": "Android Remote Administration Tool",
+    "author": "AhMyth <AhMyth@protonmail.com>",
+    "productName": "AhMyth",
+    "version": "1.0.0",
+    "homepage": "https://github.com/AhMyth/AhMyth-Android-RAT",
+    "main": "main.js",
+    "dependencies": {
+        "angular": "^1.8.3",
+        "angular-route": "^1.8.3",
+        "fomantic-ui": "^2.8.8",
+        "fs-extra": "^11.1.0",
+        "geoip-lite": "^1.4.6",
+        "node-homedir": "^1.1.1",
+        "readdirp": "^3.6.0",
+        "socket.io": "^2.5.0",
+        "xml2js": "^0.6.0"
+    }
+}
